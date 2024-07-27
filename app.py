@@ -7,17 +7,17 @@
 
 
 
-#name=input("What is your name?")
-#print("Welcome " + name)
+name=input("What is your name?")
+print("Welcome " + name)
 
-# qty1=int(input("qty1="))
-# qty2=int(input("qty2="))
-# price=float(input("price="))
-# total=qty1+qty2
-# amount=total*price
-# print("total qty" + str(total))
-# print("amount" + str(amount))
-# #print("amount" + amount)
+qty1=int(input("qty1="))
+qty2=int(input("qty2="))
+price=float(input("price="))
+total=qty1+qty2
+amount=total*price
+print("total qty" + str(total))
+print("amount" + str(amount))
+#print("amount" + amount)
 
 # There are two variable , a and b from input
 # a = input()
